@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Management 
 - 🌱 I’m currently learning Cloud wide range of technology 
 - 💞️ I’m looking to collaborate on building technical workshop around Oracle cloud technology
-- 📫 How to reach me my email address
+- 📫 How to reach me Via email address
 
 <!---
 HEzzat/HEzzat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

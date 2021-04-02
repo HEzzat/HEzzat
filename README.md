@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HEzzat
-- 👀 I’m interested in Data managnment 
+- 👀 I’m interested in Data Management 
 - 🌱 I’m currently learning Cloud wide range of technology 
 - 💞️ I’m looking to collaborate on building technical workshop around Oracle cloud technology
 - 📫 How to reach me my email address
